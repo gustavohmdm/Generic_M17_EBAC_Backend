@@ -1,8 +1,8 @@
 /**
- * @author Win
+ * @author gustavohmdm
  */
 
-public class Carro<T, E> {
+public abstract class Carro<T, E> {
 
     T carro;
     E cavalos;
